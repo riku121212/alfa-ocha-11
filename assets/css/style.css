@@ -271,6 +271,7 @@ button {
 
 .section-title {
   font-size: 24px;
+  color: #fff;
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
@@ -279,7 +280,6 @@ button {
 }
 
 .section-title__stage {
- 　　color: #fff;
   display: inline-block;
   margin-right: 2rem;
 }
