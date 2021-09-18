@@ -279,7 +279,7 @@ button {
 }
 
 .section-title__stage {
-  text-color: white;
+  font-color: white;
   display: inline-block;
   margin-right: 2rem;
 }
