@@ -279,6 +279,7 @@ button {
 }
 
 .section-title__stage {
+  text-color: #fff;
   display: inline-block;
   margin-right: 2rem;
 }
