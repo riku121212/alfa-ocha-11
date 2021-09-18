@@ -282,11 +282,11 @@ button {
 .section-title__stage {
   display: inline-block;
   margin-right: 2rem;
+  color: black;
 }
 
 .section-title--keycolorlight {
   background-color: #8cc63f;
-  color: black;
 }
 
 .section-title--keycolorlight .section-title__stage {
